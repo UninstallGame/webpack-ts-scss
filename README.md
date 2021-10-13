@@ -1,5 +1,6 @@
-Настроенный проект с web-pack для обхединения:
-1. *.ts в 1 bundle.js 
-2. *.scss в 1 style.css 
+Настроенный проект с web-pack для объединения:
+1. `script/*.ts` в 1 `dist/bundle.js `
+2. `style/*.scss` в 1 `dist/style.css`
 
-Выполнять команду npm build, резултат смотреть в /dist
+
+Выполнять команду `npm build`, резултат смотреть в `./dist`
